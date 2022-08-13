@@ -1,0 +1,13 @@
+.letras{
+    width: 25px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.linha{
+    flex-direction: row;
+}
